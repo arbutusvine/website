@@ -270,11 +270,11 @@ strong {
   cursor: pointer;
 }
 
-.project-link-container:hover {
+/*.project-link-container:hover {
   font-family: Overpass, sans-serif;
   color: #5c6c7a;
   font-weight: 200;
-}
+}*/
 
 .text-block {
   width: auto;
