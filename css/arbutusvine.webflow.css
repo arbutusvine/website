@@ -626,7 +626,7 @@ strong {
   }
   .project-link-container {
     font-size: 14px;
-    cursor: not-allowed;
+    cursor: not-allowed !important;
   }
   .footer-text {
     color: rgba(255, 255, 255, 0.1);
