@@ -270,6 +270,11 @@ strong {
   cursor: pointer;
 }
 
+.project-link-container-noclick {
+  cursor: not-allowed;
+}
+
+
 /*.project-link-container:hover {
   font-family: Overpass, sans-serif;
   color: #5c6c7a;
